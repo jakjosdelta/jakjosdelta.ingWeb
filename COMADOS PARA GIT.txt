@@ -1,0 +1,8 @@
+touch index.html    creo el archivo
+git add index.html     agrego el archivo que cree
+git status  		para ver el estado que esta nuestro archivo
+git commit -m "Mi primer archivo subido en html"       el porque es este archivo de que es de que se trata , poner un cometario de porque se sube el archivo 
+SI HAY PROBLEMAS AGREGAR LO SIGUIENTE
+git config --global user.email "josephg059@gmail.com"
+git config --global user.name "Joseph"
+git push origin master		para ya auntenticarnos y que el archivo se suba a nuestro repositorio, poner nuestro usuario y contraseña de git y listo !!
